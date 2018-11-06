@@ -1,4 +1,4 @@
-package co.com.samtel.config;
+package co.com.samtel.controller.config;
 
 import org.modelmapper.ModelMapper;
 import org.springframework.context.annotation.Bean;

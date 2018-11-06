@@ -1,5 +1,5 @@
 
-package co.com.samtel.controller;
+package co.com.samtel.controller.restcontroller;
 
 import java.util.List;
 
