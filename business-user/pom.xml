@@ -14,9 +14,19 @@
 			<artifactId>spring-boot-starter</artifactId>
 		</dependency>
 		<dependency>
-            <groupId>${project.groupId}</groupId>
-            <artifactId>repository-user</artifactId>
-            <version>0.0.1-SNAPSHOT</version>
-        </dependency>
+			<groupId>${project.groupId}</groupId>
+			<artifactId>repository-user</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
+		</dependency>
+		<dependency>
+			<groupId>org.projectlombok</groupId>
+			<artifactId>lombok</artifactId>
+			<scope>provided</scope>
+		</dependency>
+		<!-- JWT -->
+		<dependency>
+			<groupId>io.jsonwebtoken</groupId>
+			<artifactId>jjwt</artifactId>
+		</dependency>
 	</dependencies>
 </project>

@@ -9,4 +9,6 @@ public interface IUserService {
 	List<UserEntity> getAllUsers();
 	
 	UserEntity saveUser(UserEntity user);
+	
+	UserEntity updateUser(UserEntity user);
 }
