@@ -1,0 +1,4 @@
+<!DOCTYPE xml>
+<jboss-web>
+	<context-root>/rest-service-user</context-root>
+</jboss-web>
