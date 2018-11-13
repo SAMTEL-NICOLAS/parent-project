@@ -37,5 +37,6 @@
 		<module>rest-services-user</module>
 		<module>business-user</module>
 		<module>repository-user</module>
+		<module>rest-service-role</module>
 	</modules>
 </project>
